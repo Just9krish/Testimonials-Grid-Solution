@@ -86,7 +86,7 @@ q {
 /* Backgrounds colors */
 
 .bg-purple {
-  background-color: var(--moderate-violet);
+  background: var(--moderate-violet) url(../images/bg-pattern-quotation.svg) no-repeat top 10px right 100px;
 }
 
 .bg-gray {
