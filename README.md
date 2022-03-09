@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://www.frontendmentor.io/solutions/testimonials-responsive-page-using-css-grid-P_-2k03Nh)
-- Live Site URL: [Click here](https://subhajitroycode.github.io/testimonials-grid-section/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/testmonials-grid-solution-Rvyry7HX8)
+- Live Site URL: [Click here](https://testimonials-grid-preview-by-just9krish.netlify.app/)
 
 ## My process
 
